@@ -1,1 +1,30 @@
-{}
+{
+  "Nasib": {
+    "username": "Nasib",
+    "password": "Nasib2008\"",
+    "student_type": "علمي",
+    "telegram_user_id": "7679454686",
+    "telegram_username": null,
+    "telegram_first_name": "Na",
+    "profile_photo_url": null,
+    "session_id": "33520d06-f5db-41b8-93b2-dd3d9162b419",
+    "created_at": "2026-05-10T20:13:28.059194",
+    "verified": true,
+    "last_login": "2026-05-10T20:13:32.257368",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "linguistic_studies",
+      "literary_studies"
+    ],
+    "server_num": 30
+  }
+}
